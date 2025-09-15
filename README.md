@@ -7,7 +7,7 @@ Este repositório reúne meus estudos e experimentos com a linguagem **Go (Golan
 O repositório está organizado da seguinte forma:
 
 - `01-estudos/` - Conceitos básicos da linguagem: variáveis, tipos, operadores e estruturas de controle.
-- `02-projeto/` - Funções, parâmetros, retornos e funções anônimas.
+- `02-projeto/` - Projetos desenvolvidos no curso.
 
 > Cada pasta contém exemplos comentados e exercícios resolvidos para estudo.
 
